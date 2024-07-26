@@ -14,6 +14,12 @@ Customers whose subscription plan is monthly have a high rate of churn. Those wi
 
 Churn rate is not gender dependent.
 
+### Attached Pictures
+The three jpg files shows thw visualization in the three possible states
+- The full visuals (when no filter is applied).
+- The churned version.
+- The Not-churned version.
+
 ### Tools Used
 * Excel - For data cleaning, lookups and calculations to ensure accuracy.
 * Power BI - For visualization.
