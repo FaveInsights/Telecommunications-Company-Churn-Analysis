@@ -20,7 +20,7 @@ Churn rate is not gender dependent for this dataset.
 * Figma - For the wireframe design.
 
 ### Attached Pictures
-The three jpg files shows thw visualization in the three possible states:
+The three jpg files shows the visualization in the three possible states:
 - The full visuals (when no filter is applied).
 - The churned version.
 - The Not-churned version.
