@@ -19,7 +19,7 @@ Churn rate is not gender dependent for this dataset.
 * Power BI - For visualization.
 * Figma - For the wireframe design.
 
-#### Attached Pictures
+### Attached Pictures
 The three jpg files shows thw visualization in the three possible states
 - The full visuals (when no filter is applied).
 - The churned version.
