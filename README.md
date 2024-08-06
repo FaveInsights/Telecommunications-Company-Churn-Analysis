@@ -1,7 +1,7 @@
 # Telecommunications-Company-Churn-Analysis
 
 ## Intoduction
-Churn is a measurement of the percentage of accounts that cancel or choose not to renew their subscriptions. Business owners and service providers today try their best to mitigate churn because it has various disadvantages. Often, high churn rate causes loss of revenue and decreased customer lifetime value. 
+Churn is a measurement of the percentage of accounts that cancel or choose not to renew their subscriptions. Business owners and service providers today try their best to mitigate churn because it has various disadvantages. Often, high churn rate often causes loss of revenue and decreased customer lifetime value. 
 
 ## Data Description
 The dataset contains 7043 rows of raw customer data showing their demography by gender and other conditions. 
